@@ -1,7 +1,7 @@
 ![multiLingualIntro](https://user-images.githubusercontent.com/61378660/138584048-bd393503-03f1-4391-ba35-d05d8bab15cf.gif)
 ### Dharmik Bhadra 👋
 
-https://user-images.githubusercontent.com/61378660/138583935-38cb4351-3475-4048-a7d1-f2680b1f07b7.mp4
+![github__intro](https://user-images.githubusercontent.com/61378660/138587640-44564e42-ff62-4148-8235-a34bc51aabba.gif)
 
 Completed diploma in computer engineering with Rank 1 from DY Patil pratisthan's YB Patil Polytechnic , Pune 👨‍🎓
 
