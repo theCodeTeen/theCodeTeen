@@ -3,6 +3,8 @@
 
 ![github__intro](https://user-images.githubusercontent.com/61378660/138587640-44564e42-ff62-4148-8235-a34bc51aabba.gif)
 
+Worked at ExMyB and Pairbytes as Frontend Engineer and Software Engineer respectively
+
 Completed diploma in computer engineering with Rank 1 from DY Patil pratisthan's YB Patil Polytechnic , Pune 👨‍🎓
 
 Mastering Full Stack with cutting edge technologies like React, Django, Node, Express, etc 💻
