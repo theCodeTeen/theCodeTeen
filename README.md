@@ -7,7 +7,7 @@ Worked at ExMyB and Pairbytes as Frontend Engineer and Software Engineer respect
 
 Completed diploma in computer engineering with Rank 1 from DY Patil pratisthan's YB Patil Polytechnic , Pune 👨‍🎓
 
-Mastering Full Stack with cutting edge technologies like React, Django, Node, Express, etc 💻
+Full Stack Expertise in MERN Stack with deployment experience with Amazon AWS 💻
 
 Love competitive programming , cleared Google CodeJam 2021 Qualification Round ⌨️
 
