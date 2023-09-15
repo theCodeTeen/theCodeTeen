@@ -3,13 +3,15 @@
 
 ![github__intro](https://user-images.githubusercontent.com/61378660/138587640-44564e42-ff62-4148-8235-a34bc51aabba.gif)
 
-Worked at ExMyB and Pairbytes as Frontend Engineer and Software Engineer respectively
+Worked at ExMyB and Pairbytes as a Frontend Engineer and Software Engineer respectively
 
-Completed diploma in computer engineering with Rank 1 from DY Patil pratisthan's YB Patil Polytechnic , Pune 👨‍🎓
+Completed diploma in computer engineering with Rank 1 from DY Patil Pratisthan's YB Patil Polytechnic, Pune 👨‍🎓
 
 Full Stack Expertise in MERN Stack with deployment experience with Amazon AWS 💻
 
-Love competitive programming , cleared Google CodeJam 2021 Qualification Round ⌨️
+Worked in teams following Agile methodology and Jira 👩🏻‍💻
+
+I love competitive programming, cleared Google CodeJam 2021 Qualification Round ⌨️
 
 Passionate about things that make me think 💡
 
